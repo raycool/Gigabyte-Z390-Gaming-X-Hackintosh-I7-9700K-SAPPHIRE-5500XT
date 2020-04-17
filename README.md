@@ -1,0 +1,2 @@
+# Gigabyte-Z390-Gaming-X-Hackintosh-I7-9700K-SAPPHIRE-5500XT
+Gigabyte Z390 Gaming X + I7 9700K + SAPPHIRE 5500XT
