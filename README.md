@@ -1,8 +1,9 @@
 # Gigabyte-Z390-Gaming-X-Hackintosh-I7-9700K-SAPPHIRE-5500XT
 Gigabyte Z390 Gaming X + I7 9700K + SAPPHIRE 5500XT  
 ## 版本
-OS：Catalina 10.15.4  
-BIOS：F10C  
+OS: Catalina 10.15.4  
+BIOS: F10C    
+OC: 0.5.7  
 
 
 ## 硬件：  
@@ -24,8 +25,17 @@ cpu|i7 9700k
 USB内建  
 睡眠正常  
 变频正常  
-AIRDOP正常 
+AIRDOP正常   
 声卡正常  
+
+## BIOS设置
+csm 关闭  
+vt-d 关闭  
+fast boot 关闭  
+Above 4G decoding 开启  
+EHCI handoff 开启  
+CFG lock 关闭
+
 
 ## 修改BIOS
 
