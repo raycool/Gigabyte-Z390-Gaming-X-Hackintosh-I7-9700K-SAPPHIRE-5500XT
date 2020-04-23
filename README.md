@@ -1,9 +1,12 @@
 # Gigabyte-Z390-Gaming-X-Hackintosh-I7-9700K-SAPPHIRE-5500XT
 Gigabyte Z390 Gaming X + I7 9700K + SAPPHIRE 5500XT  
 
-##update:
+## 04.23update:
 使用魔改WEG，修复核显频率，稳定在1.2GHZ  
-配置文件微调  ∂
+配置文件微调  
+
+
+![avatar](catalina.png)
 
 ## 版本
 OS: Catalina 10.15.4  
