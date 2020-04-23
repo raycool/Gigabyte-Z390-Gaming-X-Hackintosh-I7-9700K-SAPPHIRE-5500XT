@@ -6,7 +6,7 @@ Gigabyte Z390 Gaming X + I7 9700K + SAPPHIRE 5500XT
 配置文件微调  
 
 
-![avatar](catalina.png)
+![avatar](https://raw.githubusercontent.com/raycool/Gigabyte-Z390-Gaming-X-Hackintosh-I7-9700K-SAPPHIRE-5500XT/master/catalina.png)
 
 ## 版本
 OS: Catalina 10.15.4  
