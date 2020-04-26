@@ -415,7 +415,7 @@
 				<key>Count</key>
 				<integer>1</integer>
 				<key>Enabled</key>
-				<false/>
+				<true/>
 				<key>Find</key>
 				<data></data>
 				<key>Identifier</key>
@@ -577,7 +577,7 @@
 			<key>ShowPicker</key>
 			<true/>
 			<key>TakeoffDelay</key>
-			<integer>500</integer>
+			<integer>300</integer>
 			<key>Timeout</key>
 			<integer>5</integer>
 		</dict>
