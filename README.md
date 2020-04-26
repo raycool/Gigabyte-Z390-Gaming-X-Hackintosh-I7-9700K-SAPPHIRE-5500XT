@@ -1,6 +1,9 @@
 # Gigabyte-Z390-Gaming-X-Hackintosh-I7-9700K-SAPPHIRE-5500XT
 Gigabyte Z390 Gaming X + I7 9700K + SAPPHIRE 5500XT  
 
+## 04.26update:  
+启用电能小憩，同时启用OC中修复小憩间隔唤醒的选项，实现自动睡眠。  
+
 ## 04.23update:
 使用魔改WEG，修复核显频率，稳定在1.2GHZ  
 配置文件微调  
