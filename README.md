@@ -1,6 +1,9 @@
 # Gigabyte-Z390-Gaming-X-Hackintosh-I7-9700K-SAPPHIRE-5500XT
 Gigabyte Z390 Gaming X + I7 9700K + SAPPHIRE 5500XT  
 
+## 10.12update:  
+更新OpenCore版本到0.6.2，系统更新至10.15.7
+
 ## 04.26update:  
 启用电能小憩，同时启用OC中修复小憩间隔唤醒的选项，实现自动睡眠。  
 
