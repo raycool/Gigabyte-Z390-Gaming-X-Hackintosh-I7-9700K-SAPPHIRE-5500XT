@@ -1,6 +1,10 @@
 # Gigabyte-Z390-Gaming-X-Hackintosh-I7-9700K-SAPPHIRE-5500XT
 Gigabyte Z390 Gaming X + I7 9700K + SAPPHIRE 5500XT  
 
+## 11.12update:  
+技嘉官网已经提供新的BIOS下载，提供了cfg lock和serial ports选项，修复了语言不能保存的bug，
+不必使用修改版的BIOS了，建议更新。
+
 ## 10.12update:  
 更新OpenCore版本到0.6.2，系统更新至10.15.7
 
