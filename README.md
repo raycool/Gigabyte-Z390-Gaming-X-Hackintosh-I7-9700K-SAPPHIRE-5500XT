@@ -41,8 +41,8 @@ USB内建
 睡眠唤醒正常  
 变频正常  
 AIRDOP正常   
-声卡正常
-imessage 正常  
+声卡正常  
+imessage正常  
 
 ## BIOS设置
 csm  关闭  
@@ -50,7 +50,7 @@ vt-d 关闭
 fast boot 关闭  
 Above 4G decoding 开启  
 EHCI handoff 开启  
-CFG lock     关闭
+CFG lock     关闭  
 serial ports 关闭
 
 
