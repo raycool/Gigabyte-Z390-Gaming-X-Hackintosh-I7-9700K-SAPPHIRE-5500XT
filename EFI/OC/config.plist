@@ -76,7 +76,7 @@
 			<key>EnableSafeModeSlide</key>
 			<true/>
 			<key>EnableWriteUnprotector</key>
-			<true/>
+			<false/>
 			<key>ForceExitBootServices</key>
 			<false/>
 			<key>ProtectMemoryRegions</key>
@@ -84,13 +84,13 @@
 			<key>ProtectSecureBoot</key>
 			<false/>
 			<key>ProtectUefiServices</key>
-			<false/>
+			<true/>
 			<key>ProvideCustomSlide</key>
 			<true/>
 			<key>ProvideMaxSlide</key>
 			<integer>0</integer>
 			<key>RebuildAppleMemoryMap</key>
-			<false/>
+			<true/>
 			<key>SetupVirtualMap</key>
 			<true/>
 			<key>SignalAppleOS</key>
@@ -680,7 +680,7 @@
 				<key>SystemAudioVolume</key>
 				<data>Rg==</data>
 				<key>boot-args</key>
-				<string>slide=1 agdpmod=pikera igfxfw=2 shikigva=80</string>
+				<string>agdpmod=pikera igfxfw=2 shikigva=80</string>
 				<key>run-efi-updater</key>
 				<string>No</string>
 				<key>csr-active-config</key>
@@ -749,21 +749,21 @@
 			<key>AdviseWindows</key>
 			<true/>
 			<key>MLB</key>
-			<string>C02930301CDLNV9JC</string>
+			<string>C02931310CDLNV9JC</string>
 			<key>ProcessorType</key>
 			<integer>0</integer>
 			<key>SystemMemoryStatus</key>
 			<string>Auto</string>
 			<key>ROM</key>
-			<data>yLy3U7Kn</data>
+			<data>dn2gnUld</data>
 			<key>SpoofVendor</key>
 			<true/>
 			<key>SystemProductName</key>
 			<string>iMac19,1</string>
 			<key>SystemSerialNumber</key>
-			<string>C02Z412EJV3Q</string>
+			<string>C12Z401EJV3Q</string>
 			<key>SystemUUID</key>
-			<string>6986FEAD-D639-4FE5-961F-138A1953B2A7</string>
+			<string>3AF80747-1C9F-4E6E-BBD6-CB12AF9D495D</string>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>
@@ -812,7 +812,6 @@
 		<true/>
 		<key>Drivers</key>
 		<array>
-			<string>MemoryAllocation.efi</string>
 			<string>OpenRuntime.efi</string>
 			<string>HfsPlus.efi</string>
 			<string>OpenUsbKbDxe.efi</string>

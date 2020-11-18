@@ -1,6 +1,8 @@
 # Gigabyte-Z390-Gaming-X-Hackintosh-I7-9700K-SAPPHIRE-5500XT
 Gigabyte Z390 Gaming X + I7 9700K + SAPPHIRE 5500XT  
 
+## 11.19update:    
+更新bigsur 11.0.1正式版
 ## 11.12update:  
 技嘉官网已经提供新的BIOS下载，提供了cfg lock和serial ports选项，修复了语言不能保存的bug，
 不必使用修改版的BIOS了，建议更新。
@@ -13,10 +15,10 @@ Gigabyte Z390 Gaming X + I7 9700K + SAPPHIRE 5500XT
 
 
 
-![avatar](https://raw.githubusercontent.com/raycool/Gigabyte-Z390-Gaming-X-Hackintosh-I7-9700K-SAPPHIRE-5500XT/master/catalina.png)
+![avatar](https://raw.githubusercontent.com/raycool/Gigabyte-Z390-Gaming-X-Hackintosh-I7-9700K-SAPPHIRE-5500XT/master/bigsur.png)
 
 ## 版本
-OS: Catalina 10.15.7  
+OS: Catalina 11.0.1  
 BIOS: F10H    
 OC: 0.6.2  
 
