@@ -18,7 +18,7 @@ Gigabyte Z390 Gaming X + I7 9700K + SAPPHIRE 5500XT
 ![avatar](https://raw.githubusercontent.com/raycool/Gigabyte-Z390-Gaming-X-Hackintosh-I7-9700K-SAPPHIRE-5500XT/master/bigsur.png)
 
 ## 版本
-OS: Catalina 11.0.1  
+OS: BigSur 11.0.1  
 BIOS: F10H    
 OC: 0.6.2  
 
