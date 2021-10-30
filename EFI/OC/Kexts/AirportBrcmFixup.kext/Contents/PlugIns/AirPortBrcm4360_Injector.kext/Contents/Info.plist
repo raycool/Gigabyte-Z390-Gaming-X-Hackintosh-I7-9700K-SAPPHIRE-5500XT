@@ -33,10 +33,9 @@
 				<string>pci14e4,4331</string>
 				<string>pci14e4,4353</string>
 				<string>pci14e4,4357</string>
-				<string>pci14e4,43a0</string>
+				<string>pci14e4,43a3</string>
 				<string>pci14e4,43b1</string>
 				<string>pci14e4,43b2</string>
-				<string>pci14e4,43a3</string>
 			</array>
 			<key>IOProbeScore</key>
 			<integer>1110</integer>

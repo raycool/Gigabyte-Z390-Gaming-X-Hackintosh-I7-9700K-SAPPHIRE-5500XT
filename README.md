@@ -1,6 +1,8 @@
 # Gigabyte-Z390-Gaming-X-Hackintosh-I7-9700K-SAPPHIRE-5500XT
 Gigabyte Z390 Gaming X + I7 9700K + SAPPHIRE 5500XT  
 
+## 10.30update:    
+更新bigsur 11.16.1正式版
 ## 11.19update:    
 更新bigsur 11.0.1正式版
 ## 11.12update:  
