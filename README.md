@@ -2,7 +2,7 @@
 Gigabyte Z390 Gaming X + I7 9700K + SAPPHIRE 5500XT  
 
 ## 10.30update:    
-更新bigsur 11.16.1正式版
+更新bigsur 11.6.1正式版,OC 0.7.4
 ## 11.19update:    
 更新bigsur 11.0.1正式版
 ## 11.12update:  
@@ -20,9 +20,9 @@ Gigabyte Z390 Gaming X + I7 9700K + SAPPHIRE 5500XT
 ![avatar](https://raw.githubusercontent.com/raycool/Gigabyte-Z390-Gaming-X-Hackintosh-I7-9700K-SAPPHIRE-5500XT/master/bigsur.png)
 
 ## 版本
-OS: BigSur 11.0.1  
+OS: BigSur 11.6.1  
 BIOS: F10H    
-OC: 0.6.2  
+OC: 0.7.4  
 
 
 ## 硬件：  
